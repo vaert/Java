@@ -20,6 +20,8 @@ public class MapIterTest1 {
 		print(list);			// Map에서 Set 만들기
 	}
 	
+	// GitHub 테스트
+	
 	public static void print(Map sets) {
 		Set set=sets.keySet();			//키를 Set으로
 		Iterator iter=set.iterator();
