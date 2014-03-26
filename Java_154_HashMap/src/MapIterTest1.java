@@ -15,7 +15,7 @@ public class MapIterTest1 {
 		list.put("3","chung");	// 3과 동일
 		System.out.println(list.size());	//size()
 		System.out.println(list.containsKey("3"));
-		list.remove("2");		//2 제거 키를 이용
+		list.remove("2");		// 2 제거 키를 이용
 		System.out.println(list.size());
 		print(list);			// Map에서 Set 만들기
 	}
@@ -29,4 +29,3 @@ public class MapIterTest1 {
 		}
 	}
 }
-//
